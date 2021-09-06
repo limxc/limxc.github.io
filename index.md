@@ -1,10 +1,10 @@
-# SubPages :yum:
-### [jsonplaceholder](https://json.respy.cn/) 
-### [file](https://file.respy.cn/)
-### [emqx server](https://mqtt.respy.cn/)
-### [nps](https://nps.respy.cn/)
+# SubPages
+### [JsonPlaceHolder](https://json.respy.cn/)   
+### [Seafile](https://file.respy.cn/)  
+### [Emqx Server](https://mqtt.respy.cn/)  
+### [NPS](https://nps.respy.cn/)  
 
-<br><br><br>
+<br>
 
 ### Markdown Syntax
 
@@ -28,6 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<br><br><br>
+<br>
 
 > [鲁ICP备14002838号](https://beian.miit.gov.cn/)

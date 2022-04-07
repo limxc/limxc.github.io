@@ -3,6 +3,8 @@
 ### [Seafile](https://file.respy.cn/)  
 ### [Emqx Server](https://mqtt.respy.cn/)  
 ### [NPS](https://nps.respy.cn/)  
+### [Registry](https://registry.respy.cn/v2/_catalog)  
+
 
 <br>
 
